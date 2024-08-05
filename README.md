@@ -6,4 +6,5 @@
   - Cyber Security
   - Programming
   - Infrastructure
--Pronouns: They/Them
+
+- Pronouns: They/Them
